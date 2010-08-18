@@ -218,8 +218,3 @@ lib
 public
   The directory available for the web server. Contains subdirectories for images, stylesheets,
   and javascripts. Also contains the dispatchers and the default HTML files. This should be
-  set as the DOCUMENT_ROOT of your web server.
-
-script
-  Helper scripts for automation and generation.
-
